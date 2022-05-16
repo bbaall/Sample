@@ -116,9 +116,9 @@ run New-DistributionGroup and create that group.
 #>
 
 <# Sample Data 
-caseName			caseMembers			smtpAddress
+caseName		caseMembers			smtpAddress
 -----------------------------------------------------------------------------------------
-Valley v. Fields	Mark, Kevin, James	mark@domain.com,kevin@domain.com,james@domain.com
+Valley v. Fields	Mark, Kevin, James		mark@domain.com,kevin@domain.com,james@domain.com
 Water v. Fire		Mark, Kevin			mark@domain.com,kevin@domain.com
 Light v. Dark		James				james@domain.com
 Weak v. Strong		Mark, Kevin			mark@domain.com,kevin@domain.com
