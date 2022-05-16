@@ -115,7 +115,6 @@ run New-DistributionGroup and create that group.
 
 #>
 
-
 <# Sample Data 
 caseName			caseMembers			smtpAddress
 -----------------------------------------------------------------------------------------
